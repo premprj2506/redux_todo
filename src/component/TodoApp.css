@@ -1,0 +1,32 @@
+.todo {
+    height: 100vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    align-items: center;
+
+}
+
+.todo-main {
+    background-color: #F6F8F9;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 0.75rem;
+    padding: 0;
+    /* text-align: center; */
+}
+
+.todo-task {
+    background-color: white;
+    border-radius: 0.75rem;
+    padding: 0.75rem;
+    display: flex;
+    align-items: center;
+}
+
+.todo-header {
+    background: linear-gradient(to left, #87ceeb, #4682b4);
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    padding: 1.25rem;
+    color: white;
+}
