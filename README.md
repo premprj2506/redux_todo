@@ -61,6 +61,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 - [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps.
 - [Material-UI](https://material-ui.com/) - React components for faster and easier web development.
   
-### Contact
+### Project Link
 
-Project Link: [https://https://premprj2506.github.io/redux_todo/](https://https://premprj2506.github.io/redux_todo/)
+[https://https://premprj2506.github.io/redux_todo/](https://https://premprj2506.github.io/redux_todo/)
