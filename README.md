@@ -60,7 +60,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps.
 - [Material-UI](https://material-ui.com/) - React components for faster and easier web development.
-  
+
 ### Project Link
 
-[https://https://premprj2506.github.io/redux_todo/](https://https://premprj2506.github.io/redux_todo/)
+# <<<<<<< HEAD
+
+### Project Link
+
+> > > > > > > 54deed8 (Add responsiveness)
+> > > > > > > [https://https://premprj2506.github.io/redux_todo/](https://https://premprj2506.github.io/redux_todo/)

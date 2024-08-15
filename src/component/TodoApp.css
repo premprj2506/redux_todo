@@ -1,10 +1,9 @@
 .todo {
     height: 100vh;
-    margin-top: auto;
-    margin-bottom: auto;
     display: flex;
+    justify-content: center;
     align-items: center;
-
+    padding: 1rem;
 }
 
 .todo-main {
@@ -12,7 +11,8 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     border-radius: 0.75rem;
     padding: 0;
-    /* text-align: center; */
+    width: 100%;
+    max-width: 500px;
 }
 
 .todo-task {
@@ -21,6 +21,7 @@
     padding: 0.75rem;
     display: flex;
     align-items: center;
+    margin-bottom: 0.5rem;
 }
 
 .todo-header {
@@ -29,4 +30,5 @@
     border-top-right-radius: 0.75rem;
     padding: 1.25rem;
     color: white;
+    text-align: center;
 }
